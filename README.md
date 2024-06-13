@@ -1,4 +1,4 @@
 # my-website
-trying to host good quality websites, aspiring front end developer
+Utilising my html skills to create a full fledged working website.
 
 link: https://kawinyogam.github.io/my-website/
